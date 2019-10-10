@@ -1,0 +1,24 @@
+{
+  "name": "navbarandsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HRLA32-FEC-Group-One-Versace-so-Sloppy/navBarandSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HRLA32-FEC-Group-One-Versace-so-Sloppy/navBarandSearch/issues"
+  },
+  "homepage": "https://github.com/HRLA32-FEC-Group-One-Versace-so-Sloppy/navBarandSearch#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.4"
+  }
+}
